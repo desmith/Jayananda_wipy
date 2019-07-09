@@ -1,0 +1,1 @@
+pycom-fwtool-cli -v erase_fs

@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+
+secrets.*
+pybytes_config.json
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+
+# mypy
+.mypy_cache/
